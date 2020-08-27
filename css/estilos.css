@@ -1,0 +1,30 @@
+header {
+    background-color: darkblue;
+    color:white;
+    text-align: center;
+    padding:2px;
+}
+
+section header{
+    background-color:darkcyan;
+    padding:0px;
+    text-align: left;
+}
+
+.cita-textual{
+    text-align: justify;
+    font-style: italic;
+}
+
+.cita-autor{
+    text-align: right;
+  }
+
+ img {
+     width: 50%;
+    
+ }
+
+ aside {
+     background-color:darkorange;
+ }
